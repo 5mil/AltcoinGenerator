@@ -31,7 +31,7 @@ CHAIN=""
 PREMINED_AMOUNT=500000
 
 # warning: change this to your own pubkey to get the genesis block mining reward
-GENESIS_REWARD_PUBKEY=03a4368eb02a38c11d6bb9b30c8c62a0bb5b84275c2ec02f68bcb3020390718b42
+GENESIS_REWARD_PUBKEY=03562ac0961a24edc96283a82c5773c8064f21277052f4afbbc0fcbcc9687be798
 
 # dont change the following variables unless you know what you are doing
 LITECOIN_BRANCH=0.14
